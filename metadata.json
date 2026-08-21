@@ -1,0 +1,6 @@
+{
+  "name": "Callship",
+  "description": "An ADHD-first, shame-free connection companion that solves object permanence, time blindness, and choice paralysis in staying in touch with your social circle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
